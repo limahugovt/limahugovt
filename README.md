@@ -14,11 +14,7 @@ Minhas paixões de pesquisa se concentram em várias áreas-chave da Engenharia 
 - Arquitetura de Software: Compreender como construir estruturas robustas que suportem o crescimento e a evolução contínua de projetos.
 - Implementação de Software: Transformar designs em código funcional, aplicando boas práticas e técnicas de programação.
 
-## Como Entrar em Contato
-
-Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias:
+Obrigado por visitar meu perfil!
 
 - Email: lima.hugo@escolar.ifrn.edu.br
 - Instagram: [@victorh_ls](https://www.instagram.com/victorh_ls/)
-
-Obrigado por visitar meu perfil! Estou ansioso para conectar-me com outros entusiastas da tecnologia, colaborar em projetos emocionantes e continuar minha busca por excelência na Engenharia de Software. Vamos criar coisas incríveis juntos!
