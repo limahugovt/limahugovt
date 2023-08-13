@@ -19,8 +19,8 @@ Minhas paixões de pesquisa se concentram em várias áreas-chave da Engenharia 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou apenas para trocar ideias:
 
 - Email: lima.hugo@escolar.ifrn.edu.br
-- Instagram: [(https://www.instagram.com/victorh_ls/)]
-
+- Instagram: [@victorh_ls](https://www.instagram.com/victorh_ls/)
+  
 ## Contribuições e Colaborações
 
 Estou sempre aberto a colaborações e contribuições em projetos interessantes. Se você tem algo em mente, sinta-se à vontade para entrar em contato. Vamos juntos tornar o mundo da tecnologia ainda mais incrível!
