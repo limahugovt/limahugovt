@@ -20,10 +20,5 @@ Fique à vontade para entrar em contato comigo para discussões, colaborações 
 
 - Email: lima.hugo@escolar.ifrn.edu.br
 - Instagram: [@victorh_ls](https://www.instagram.com/victorh_ls/)
-  
-## Contribuições e Colaborações
-
-Estou sempre aberto a colaborações e contribuições em projetos interessantes. Se você tem algo em mente, sinta-se à vontade para entrar em contato. Vamos juntos tornar o mundo da tecnologia ainda mais incrível!
-
 
 Obrigado por visitar meu perfil! Estou ansioso para conectar-me com outros entusiastas da tecnologia, colaborar em projetos emocionantes e continuar minha busca por excelência na Engenharia de Software. Vamos criar coisas incríveis juntos!
