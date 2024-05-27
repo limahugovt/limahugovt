@@ -1,6 +1,6 @@
-# Victor - QA e Pesquisador em Engenharia de Software
+# Victor - Analista QA e Dev Front-End
 
-Olá! 👋 Sou Victor, atuando na área de Quality Assurance (QA) enquanto mergulho nas profundezas da Engenharia de Software. Bem-vindo ao meu perfil do GitHub!
+Olá! 👋 Sou Victor, atuando na área de desenvolvimento front-end e com conhecimentos em Quality Assurance (QA). Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre Mim
 
