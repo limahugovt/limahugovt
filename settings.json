@@ -1,0 +1,108 @@
+{
+  "workbench.colorTheme": "Vesper ++",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [88, 128],
+  "editor.fontLigatures": true,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "window.menuBarVisibility": "compact",
+  "editor.minimap.showSlider": "always",
+  "apc.font.family": "Arial",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 11,
+      "y": 10
+    },
+    "frame": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "[typescriptreact]": "explicit"
+  },
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": false
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".pane-header": "padding: 0 8px",
+    ".pane-body": "padding: 8px",
+    ".monaco-list-row": "border-radius: 4px;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+  },
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.stickyScroll.enabled": true,
+  "editor.minimap.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.wordWrap": "on",
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  // =================== CONFIG: eslint e prettier ===================
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "[html]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+
+  "editor.formatOnPaste": false,
+  "editor.inlineSuggest.enabled": true,
+  "git.confirmSync": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true,
+    "javascript": true,
+    "python": true,
+    "javascriptreact": true
+  },
+  "eslint.validate": ["javascript", "typescriptreact", "javascriptreact"],
+  "[javascript]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.autoClosingBrackets": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "console-ninja.featureSet": "Community",
+  "workbench.layoutControl.enabled": false,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "update.mode": "manual",
+  "workbench.productIconTheme": "fluent-icons"
+}

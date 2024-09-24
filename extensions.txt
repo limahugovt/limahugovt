@@ -1,0 +1,10 @@
+symbols
+svg preview
+apc custumize ui
+color highligth
+console ninja
+fluent icons
+copilot
+min theme
+live server
+vesper ++
