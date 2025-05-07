@@ -2,10 +2,6 @@
 
 Olá! 👋 Sou Victor, atuando na área de desenvolvimento front-end e com conhecimentos em Quality Assurance (QA). Bem-vindo ao meu perfil do GitHub!
 
-## Sobre Mim
-
-Atualmente, sou um aluno do curso técnico em Informática, integrado ao ensino médio, no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN), campus Pau dos Ferros.
-
  <div>
   <a href="https://github.com/limahugovt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limahugovt&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
